@@ -4,8 +4,12 @@ Quiz -Week 11
 Marvel Characters
 
 Do you want to know which Marvel character is similar to you?
-You have 5 options based on your personality. 
-Let`s answer 5 questions and I will let you know who is similar to you. This is what this virtual game is about. 
+You have 4 options based on your personality. 
+Let`s answer 4 questions and I will let you know who is similar to you. This is what this virtual game is about. 
+
+## Important Note 
+The characters of this game are limited, the existing options are 4, if the range does not fit these characters the game will present an error.
+Options are: Laura (Logan`s Daughter, Jessica Jones, Deadpool, Wolverine)
 
 ## Project Roadmap File: 
 https://docs.google.com/document/d/13Bxn00Y_53VTM0gwx1pyY5ifrOsLuPxBf0Ns3Wn_q4I/edit?usp=sharing
